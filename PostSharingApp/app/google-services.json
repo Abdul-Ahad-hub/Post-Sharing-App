@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093679604320",
+    "project_id": "post-sharing-app-acca8",
+    "storage_bucket": "post-sharing-app-acca8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093679604320:android:dc819e3f0913960db05905",
+        "android_client_info": {
+          "package_name": "com.example.postsharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftGGGvHPnOyDyP0pSh92HtSr7zI8NppU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

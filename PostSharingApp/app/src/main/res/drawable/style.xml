@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#FFCCCCCC" /> <!-- replace with your color or make transparent -->
+</shape>
